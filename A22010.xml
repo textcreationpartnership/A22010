@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A publication concerning all sorts of gold and siluer threed, granted by His Maiesties letters patents, vnder the great seale</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1605</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22010</idno>
+            <idno type="STC">STC 8367</idno>
+            <idno type="STC">ESTC S123954</idno>
+            <idno type="EEBO-CITATION">33151110</idno>
+            <idno type="OCLC">ocm 33151110</idno>
+            <idno type="VID">28932</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22010)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28932)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A publication concerning all sorts of gold and siluer threed, granted by His Maiesties letters patents, vnder the great seale</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, Printer to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>2. Februarie 1604 [i.e. 1605]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Grant of 16-year patent to Roger Pennell and Richard Grimstone.</note>
+                  <note>Imperfect: tightly bound.</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pennell, Roger.</term>
+               <term>Grimstone, Richard.</term>
+               <term>Exclusive licenses --  England.</term>
+               <term>Monopolies --  England --  Early works to 1800.</term>
+               <term>Gold thread.</term>
+               <term>Silver thread.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:28932:1"/>
+            <head>¶ A Publication concerning all ſorts of Gold and Siluer threed, granted by his Maieſties Letters Patents, vnder the great Seale.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas we haue bene informed of the manifeſt iniuries and wrongs done vnto vs by the ſecret bringing and conueying into this our Realme of England and other our Dominions of right gold threed, right ſiluer threed, and right gold and ſiluer threed, wrought and vn wrought in lace and otherwiſe, commonly called and knowen by the name or names of Venice gold, Venice ſiluer, or Venice gold and ſiluer, Florence gold, Florence ſiluer, or Florence gold and ſiluer, French gold, French ſiluer, or French gold and ſiluer, Millen golde, Millen ſiluer, or Millen golde and ſiluer, and Copper gold threed, and Copper ſiluer threed, and Copper gold and ſiluer threed wrought and vnwrought in lace or otherwiſe, commonly called or knowen by the names of Cap gold, Cap ſiluer, and Cap gold and ſiluer, Cullen gold, Cullen ſiluer, or Cullen gold and ſiluer, Bridges gold, Bridges ſiluer, or Bridges gold and ſiluer, or by what other name or names ſo euer, in ſecret and vnlawfull maner without paying the Cuſtome and Subſidie of right due and be<g ref="char:EOLhyphen"/>longing to vs of or for the ſame: For remedie whereof we haue thought good by our letters patents indented vnder our great Seale of England, bearing date the 13. day of Ianuary laſt paſt, to demiſe and to farme let vnto <hi>Roger Pennell,</hi> and <hi>Richard Grimſtone,</hi> their executors and aſſignes, all the Cuſtomes and ſubſidies which at any time or times, during the ſpace and terme of 16. yeeres next after the feaſt of <hi>S. Michael</hi> the archangel laſt paſt, before the date of the ſaid letters patents, ſhould or ought to ariſe, renew, happen, grow due, or payable to vs, our heires and ſucceſſors, of, for, or in reſpect of all or any of the ſaid wares, commodities and marchandizes of all or any of the ſorts, or kinds aforeſayd, or called or knowen by any of the names aforeſaid, which at any time or times during the ſaid terme of 16. yeeres, ſhould be brought or tranſported from any the parts be<g ref="char:EOLhyphen"/>yond the Seas into this Realme of England, or any of the Dominions of the ſame, for ſuch yeerely rent as by the ſaid Letters Patents is to vs, our heires and ſucceſſors reſerued. And whereas alſo by the ſame Letters Patents we haue ſtraightly charged and forbidden all manner of perſons other then the ſaid <hi>Roger Pennell</hi> and <hi>Richard Grimſtone,</hi> their executors, deputies, and aſſignes, and other then ſuch perſon or perſons, as within the ſpace of fire moneths next after the publication hereof, ſhall become bound vnto the ſaid <hi>Roger Pennell,</hi> and <hi>Richard Grimſtone,</hi> or to the ſuruiuour of them, or to the aſſignes of them, or of the ſurui<g ref="char:EOLhyphen"/>uour of them, in a bond of fiue hundred pounds, of lawfull Engliſh money, for the due payment of ſuch cuſtomes and ſubſidies, as by the Lawes and Statutes of this Realme ought to be anſwered and paid for the ſaide wates and commodities and euery of them, and not to vtter or ſell the ſame wares or merchandize, or any part thereof, before ſuch time as the ſame wares or merchandize ſhall be ſealed with the ſeale mentioned in the ſayd Letters Patents, whereof the print and ſtampe is ſet and expreſſed in the margent of theſe preſents (vnleſſe the ſaide <hi>Roger Pennell</hi> and <hi>Richard Grimſtone</hi> ſhall neglect or refuſe to ſeale the ſame) to tranſport or bring from any the parts beyond the Seas, and to lay on land within this our Realme of England, or any of the Dominions of the ſame at any time or times, during the ſayd terme of ſixteene yeeres, any of the ſaid wares, commodities or merchandize, of all or any the natures, ſorts or kindes aforeſaid, or called or knowen by any of the names aforeſayd. And whereas alſo by the ſaid Letters Patents we haue graunted that it ſhall and may be lawfull to and for the ſaid <hi>Roger Pennell</hi> and <hi>Richard Grimſtone,</hi> their, and either of their executors, deputies, factours, and aſſignes, and to and for all ſuch perſon and perſons onely which ſhall ſo become bound, according to the purport and true meaning of the ſaid Letters Patents, to bring or cauſe to be brought from the parts be<g ref="char:EOLhyphen"/>yono the Seas, into this our Realme of England, or any of the Dominions of the ſame, according to the Lawes and Statutes of this Realme, any of the ſaid wares, commodities or merchandize, of all or any of the kindes or natures aforeſaid, or called or knowen by any of the names aforeſayd;</p>
+            <p>And further by our ſaid Letters Patents we haue willed and commanded that no merchant, nor any other perſon or perſons ſhall within the ſaid terme of ſixteene yeeres buy, acquire, obtaine or receiue within this our Realme of England, or any of the Dominions of the ſame, of any perſon or perſons, to the in<g ref="char:EOLhyphen"/>tent to mechandize, bargaine, vent or vtter againe in groſſe or by retaile, or to worke or make in lace or fringe, any of the ſaide wares, commodities or mer<g ref="char:EOLhyphen"/>chandizes of any the natures or kindes aforeſaid, or called or knowen by any the names aforeſaid, vnleſſe the ſame be firſt marked or ſealed with the ſaide ſeale, vnleſſe the ſaid <hi>Roger Pennell</hi> and <hi>Richard Grimſtone,</hi> their executors, adminiſtrators, deputies, factours and aſſignes, ſhall wilfully refuſe or neglect to ſeale the ſame vpon paine of our high diſpleaſure, and to ſuffer ſuch fyne and corporall puniſhment as offendours in caſe of wilfull contempt of our expreſſe commande<g ref="char:EOLhyphen"/>ment ought to ſuffer and ſuſtaine. And moreouer by the ſayde Letters Patents our will and pleaſure is ſignified, and we thereby willed and commaun<g ref="char:EOLhyphen"/>ded that the ſaid <hi>Roger Pennell</hi> and <hi>Richard Grimſtone,</hi> their deputies, factours, ſeruants, and aſſignes, ſhall haue conuenient place in the cuſtome houſe of Lon<g ref="char:EOLhyphen"/>don, and in all other cuſtome houſes, and places of lading or vnlading of wares elſewhere within England, or in any of the Dominions of the ſame, there, at their pleaſure to be preſent, and to receiue, collect and enioy without interruption of any perſon or perſons whatſoeuer, all the ſaid cuſtomes and ſubſidies ac<g ref="char:EOLhyphen"/>cording to our ſaid Letters Patents, and haue granted by the ſame Letters Pattents vnto the ſaid <hi>Roger Pennell,</hi> and <hi>Richard Grimſtone,</hi> their deputies, factors, ſeruants and aſſignes, being accompanied with the Conſtable, or any other our officers for the time being, in lawfull maner and from time to time, and at all times lawfull, meete and conuenient, during the ſaid terme of ſixteene yeeres, to ſearch all ſhippes, veſſels, boats, bottomes, houſes, warehouſes, ſhoppes or conuenient place or places whatſoeuer, for all or any of the ſaid wares, merchandizes or commodities of any of the natures or kindes aforeſayde, or called or knowen by any of the names aforeſayd, whereof the cuſtomes and ſubſidies are granted or demiſed by the ſaid Letters Patents, as ſhall bee brought or layd on land within this our Realme of England, or any of the dominions of the ſame within the ſaid terme of 16. yeeres, by any perſon or perſons, before the Cuſtomes and Subſides due for the ſame ſhalbe paid or compounded for, to or with the ſaid <hi>Roger Pennell</hi> &amp; <hi>Richard Grimſtone,</hi> their executors, adminiſtrators or aſſignes, and to take and ſeaze the ſame.</p>
+            <p>And furthermore whereas we haue by our ſaid Letters patents ſtraightly charged and commanded all and euery perſon and perſons, Merchants denizens or ſtrangers whatſoeuer, that they or any of them doe not attempt or preſume to vnſhip, diſcharge, vnlade, and lay on land any of the wares, commodities, or merchandizes before mentioned, in any Port, hauen, creeke, place or places whatſoeuer within this our Realme, before ſuch times as the Cuſtomes and Sub<g ref="char:EOLhyphen"/>ſdies due and payable for the ſaid wares, merchandizes and commodities, and euery of them, bee duely anſwered, payed, or compounded for, to or with the ſaid <hi>Roger Pennell</hi> and <hi>Richard Grimſtone,</hi> or either of them, their, or either of their executors, adminiſtrators, deputies, ſeruants, Factors or aſſignes, or ſome, or one of them, vpon paine that euery perſon, or perſons. Merchants denizens or ſtrangers whatſoeuer, that ſhall vnlade, or lay on land any of the ſaid Wares, merchan<g ref="char:EOLhyphen"/>dizes or commodities, the Cuſtomes and Subſidies whereof are by the ſaid Letters patents demiſed and granted before ſuch time as the Cuſtomes and ſub<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dies thereof ſhal firſt be duely anſwered, payd or compounded for, to or with the ſaid <hi>Roger Pennel</hi> and <hi>Richard Grimſtone,</hi> or either of them, their, or either of their <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cutors, adminiſtrators, deputies, Factors or aſſignes, within the ſaid terme of 16. yeeres in theſe preſents mentioned, ſhall forfeit and looſe all and euery the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me Wares, merchandizes and commodities ſo vnſhipped, vnladen, diſcharged or layed on land, before ſuch time as the Cuſtomes and Subſidies by the ſaide Letters patents demiſed and granted payable for the ſame Wares, merchandizes or commodities, be or ſhalbe firſt duly anſwered or compounded for, to or with the ſaid <hi>Roger Pennel</hi> and <hi>Richard Grimſtone,</hi> or either of them, their, or either of their executors, adminiſtrators, Factors, deputies or aſſignes, the one moitie of all which forfeitures to be to vs our heires and ſucceſſors, to the vſe of vs our heires and ſucceſſors, and the other moitie of the ſame forfeitures to be to the ſaid <hi>Ro<g ref="char:EOLhyphen"/>ger Pennel</hi> and <hi>Richard Grimſtone,</hi> their executors, adminiſtrators and aſſignes, or to ſuch other perſon or perſons as ſhall firſt ſeaze the ſame to his or their owne vſes, without any accompt thereof to vs, our heires and ſucceſſors, to be rendred or payd for the ſame.</p>
+            <p>And whereas by our ſaid Letters patents we haue charged and commanded all and euery Cuſtomers, Controllers, Surueyors, Searchers, Waitors, and other our Officers and miniſters whatſoeuer, of all and euery Ports, Hauens, creekes, members and paſſages within this our Realme of England and domi<g ref="char:EOLhyphen"/>nion of Wales, That they or any of them ſhall not permit, tollerate, or ſuffer directly or indirectly any Merchant Engliſh, denizen or ſtranger, or other perſon whatſoeuer, to diſcharge, vnlade or lay on land any of the ſaid Wares, merchandizes and commodities, the Cuſtomes and Subſidies whereof are by the ſaide Letters patents demiſed and granted vnto the ſaid <hi>Roger Pennel</hi> and <hi>Richard Grimſtone,</hi> before ſuch time as the Cuſtomes and Subſidies thereof be duely an<g ref="char:EOLhyphen"/>ſwered, payd or compounded for, to and with the ſaid <hi>Roger Pennel</hi> and <hi>Richard Grimſtone,</hi> or one of them, their, or one of their executors, adminiſtrators, aſſignes, deputies, Factors or ſeruants, or ſome of them, according to the true intent and meaning of the ſaide Letters patents. And that if any ſuch Wares, merchan<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>izes or commodities, be diſcharged, vnladen or layed on land, that after knowledge thereof, they ſhall foorthwith and with all conuenient ſpeed, giue notice of ſuch diſcharging, vnlading or laying on land to the ſaid <hi>Roger Pennel</hi> and <hi>Richard Grimſtone,</hi> or one of their executors, adminiſtrators and aſſignes, or to their de<g ref="char:EOLhyphen"/>puties, Factors, or ſeruants, to the end they may take the benefit of our ſaid grant, vpon paint of our diſpleaſure and indignation, and of ſuch forfeiture, paine and puniſhment, as by the Lawes of our Realme can or may be inflicted vpon them, and euery of them in that behalfe.</p>
+            <p>And we haue alſo by our ſaid Letters patents ſtraightly charged, prohibited and forbidden all and euery the Owners, farmers, or occupiers of all and euery Wes, keyes, Brewhouſes, and other ſuch like place and places of lading, or vnlading whatſoeuer, within this our Realme of England, That they nor any of them ſhall not ſuffer or permit any Goods, wares, merchandizes or other commodities to be vnſhipped, vnladen, diſcharged or layed on land, in any of the ſaid Wharfes, keyes, Brewhouſes or other ſuch like places of lading or vnlading, contrary to the Bookes of Cuſtomes made in the ſeuenth yeere of the raigne of our <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eare ſiſter <hi>Elizabeth</hi> the late Queene of England, vpon paine of our diſpleaſure and indignation, and of ſuch paines and penalties as by the Lawes and Sta<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>utes of this Realme can or may be inflicted on them for their offence in that behalfe, As by the ſaid Letters patents more at large appeareth. All which pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſſes, to the intent our will and pleaſure in that behalfe might the better be knowen to all ſuch our louing Subiects whom it may concerne, Wee are pleaſed <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at they ſhould in our name be publiſhed, notified and commended by theſe preſents to all and euery our louing Subiects to be done and performed, vpon the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ines and penalties aforeſaid, according to the tenour and true intent of the ſaid Letters Patents.</p>
+            <closer>
+               <dateline>
+                  <date>2. Februarie 1604.</date>
+               </dateline>
+               <lb/> God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Robert Barker, Printer to the Kings moſt Excellent Maieſtie.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
